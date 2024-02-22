@@ -1,2 +1,2 @@
-# Live-SQL-Oracle
+# Learning-SQL
 Oracle Live SQL
